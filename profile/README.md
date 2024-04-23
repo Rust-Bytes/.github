@@ -17,7 +17,7 @@ This newsletter is brought to you by the editors of the Rustaceans Publication.
 ### Support Rust Bytes
 
 - ❤️ Recommend the newsletter to your friends!
-- 💰 Sponsor the newsletter (details coming soon!)
+- 💰 Sponsor the newsletter.
 - 🤳 Follow us on social media: [X](), [Rustaceans Publication](https://medium.com/rustaceans)
 - 📧 Contact us: rustaceanseditors@gmail.com feedback welcome!
 
