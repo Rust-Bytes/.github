@@ -1,26 +1,27 @@
+
 # Rust Bytes Newsletter
+Rust Bytes is a curated bi-weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
-*Rust Bytes* is a curated weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
+Expect to receive it in your inbox once a week: Mondays - all by 0:10 AM.
 
-**What to expect each Sunday (or Monday, depending on your timezone):**
+Here’s what’s in it for you:
 
-- **Main Discussion:** Deep dives into the key topic of the week.
-- **Project Spotlight:** Showcasing a remarkable open-source Rust project.
-- **Pun of the Week:** Can you do better? Submit your own Rust puns!
-- **Spot the Bug Challenge:** Test your Rust skills with a hidden bug challenge.
-- **Curated Links:** Expand your Rust knowledge with 10 amazing links from the web.
+- Main discussion on a key Rust topic.
+- Rust Challenge to test your Rust skills.
+- Project Spotlight to showcase a remarkable open-source project written in Rust. This could be a crate, or tool pushing the boundaries of the language.
+- Ten (10) best handpicked links to articles, talks, podcasts and more.
 
 ## The Team Behind Rust Bytes
 
-This newsletter is brought to you by the editors of the Rustaceans Publication.
+This newsletter is curated by the editors of the Rustaceans Publication.
 
-### Support Rust Bytes
+## Support Rust Bytes
 
-- ❤️ Recommend the newsletter to your friends!
-- 💰 [Sponsor](https://www.buymeacoffee.com/rustbytes) the newsletter.
+- ❤️ Recommend the newsletter to your friends.
+- 💰 [Buy a coffee](https://www.buymeacoffee.com/rustbytes) for our editors.
 - 🤳 Follow us on social media: [X](), [Rustaceans Publication](https://medium.com/rustaceans)
-- 📧 Contact us: rustaceanseditors@gmail.com feedback welcome!
+- 📧 Contact us: rustaceanseditors@gmail.com for sponsorships, feedback, and ideas.
 
-### Get Started!
+## Get Started
 
-Subscribe to the [*Rust Bytes* newsletter](https://weeklyrust.substack.com/) to stay up-to-date on the latest Rust news and advancements!
+Subscribe to the [*Rust Bytes* newsletter](https://weeklyrust.substack.com/) to stay up-to-date on the latest Rust news and advancements.
