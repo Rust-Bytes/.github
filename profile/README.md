@@ -8,7 +8,7 @@ Here’s what’s in it for you:
 
 - Main discussion on a key Rust topic.
 - Rust Challenge to test your Rust skills.
-- Project Spotlight to showcase a remarkable open-source project written in Rust. This could be a crate, or tool pushing the boundaries of the language.
+- Project Spotlight. This could be a crate, or tool pushing the boundaries of the language.
 - Ten (10) best handpicked links to articles, talks, podcasts and more.
 
 ## The Team Behind Rust Bytes
