@@ -2,7 +2,7 @@
 # Rust Bytes Newsletter
 Rust Bytes is a curated weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
-Expect to receive it in your inbox once a week: Mondays - all by 0:10 AM.
+Expect to receive it in your inbox once a week: Mondays.
 
 Here’s what’s in it for you:
 
