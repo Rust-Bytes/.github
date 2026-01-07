@@ -1,6 +1,6 @@
 # Rust Bytes Newsletter
 
-*Rust Bytes* is a curated weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
+Rust Bytes is a curated weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
 **What to expect each Sunday (or Monday, depending on your timezone):**
 
