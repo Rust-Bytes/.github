@@ -24,4 +24,4 @@ This newsletter is curated by the editors of the Rustaceans Publication.
 
 ## Get Started
 
-Subscribe to the [Rust Bytes newsletter](https://weeklyrust.substack.com/) to stay up-to-date on the latest Rust news and advancements.
+Subscribe to the [Rust Bytes newsletter](https://rustbytes.com/) to stay up-to-date on the latest Rust news and advancements.
