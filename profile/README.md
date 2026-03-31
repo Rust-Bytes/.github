@@ -20,7 +20,7 @@ This newsletter is curated by the editors of the Rustaceans Publication.
 - ❤️ Recommend the newsletter to your friends.
 - 💰 [Buy us a coffee](https://www.buymeacoffee.com/rustbytes) for our editors.
 - 🤳 Follow us on social media: [X](), [Rustaceans Publication](https://medium.com/rustaceans)
-- 📧 Contact us: rustaceanseditors@gmail.com for sponsorships, feedback, and ideas.
+- 📧 Contact us: hello@rustbytes.com for sponsorships, feedback, and ideas.
 
 ## Get Started
 
